@@ -1,4 +1,4 @@
-<h1 align="center">Fiwali-Sales-Analysis</h1>
+<h1 align="center">Festival-Sales-Analysis</h1>
 
 ## ▶ Objective
 
